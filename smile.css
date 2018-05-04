@@ -1,0 +1,27 @@
+div.container {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+}
+
+div#header {
+  font-family: Monotype Corsiva, arial, sans-serif;
+  font-size: large;
+  text-align: center;
+}
+
+div#smileworld {
+  border: 1.5px solid #b00;
+  border-style: inset;
+  border-radius: 5px;
+  font-size: medium;
+  display: inline-block;
+  text-align: center;
+  white-space: pre-wrap;
+  line-height: 1.2em;
+  background-color: #ccc;
+}
