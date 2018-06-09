@@ -1,4 +1,4 @@
-# Face of Life
+# [Face of Life](https://naraba.github.io/face-of-life/)
 
 > Death is just life's next big adventure.
 > &emsp;-- J. K. Rowling
